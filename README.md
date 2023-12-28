@@ -17,8 +17,12 @@ brew install cocoapods
 brew install --cask flutter
 
 Xcode for ios emulator:
+
+
 sudo sh -c 'xcode-select -s /Applications/Xcode.app/Contents/Developer && xcodebuild -runFirstLaunch'
+
 xcodebuild -downloadPlatform iOS
+
 sudo xcodebuild -license
 
 Check your setup

@@ -7,7 +7,11 @@ Mac
 A exécuter : (https://docs.flutter.dev/get-started/install/macos/mobile-ios#install-the-flutter-sdk) :
 
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+
+
 brew install ruby
+
+
 brew install cocoapods
 
 brew install --cask flutter

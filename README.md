@@ -30,7 +30,9 @@ xcodebuild -downloadPlatform iOS
 sudo xcodebuild -license
 
 Check your setup
+
  open -a Simulator
+ 
  flutter doctor
 
  Install IDE

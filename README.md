@@ -14,6 +14,10 @@ brew install ruby
 
 brew install cocoapods
 
+
+brew link cocoapods
+
+
 brew install --cask flutter
 
 Xcode for ios emulator:
